@@ -1,0 +1,13 @@
+C:\ssibal\ssibal\bin\Debug\netcoreapp3.1\ssibal.exe
+C:\ssibal\ssibal\bin\Debug\netcoreapp3.1\ssibal.deps.json
+C:\ssibal\ssibal\bin\Debug\netcoreapp3.1\ssibal.runtimeconfig.json
+C:\ssibal\ssibal\bin\Debug\netcoreapp3.1\ssibal.runtimeconfig.dev.json
+C:\ssibal\ssibal\bin\Debug\netcoreapp3.1\ssibal.dll
+C:\ssibal\ssibal\bin\Debug\netcoreapp3.1\ssibal.pdb
+C:\ssibal\ssibal\obj\Debug\netcoreapp3.1\ssibal.csprojAssemblyReference.cache
+C:\ssibal\ssibal\obj\Debug\netcoreapp3.1\ssibal.AssemblyInfoInputs.cache
+C:\ssibal\ssibal\obj\Debug\netcoreapp3.1\ssibal.AssemblyInfo.cs
+C:\ssibal\ssibal\obj\Debug\netcoreapp3.1\ssibal.csproj.CoreCompileInputs.cache
+C:\ssibal\ssibal\obj\Debug\netcoreapp3.1\ssibal.dll
+C:\ssibal\ssibal\obj\Debug\netcoreapp3.1\ssibal.pdb
+C:\ssibal\ssibal\obj\Debug\netcoreapp3.1\ssibal.genruntimeconfig.cache
